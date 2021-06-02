@@ -411,6 +411,14 @@
     [
       "3f3d0e7d-e2ab-42c2-93f1-d28868469a16",
       ""
+    ],
+    [
+      "4c5b9966-4e2b-4887-a56b-8e6528a59c67",
+      "ublox GPS"
+    ],
+    [
+      "e0b2930d-62e1-4e60-b86a-2468f53eee3b",
+      "Input stage"
     ]
   ],
   "text_variables": {}
